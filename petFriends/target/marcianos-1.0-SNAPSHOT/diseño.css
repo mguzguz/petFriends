@@ -1,0 +1,73 @@
+.una{
+    margin: 0;
+    background-image:url(https://imagenes.elpais.com/resizer/3Te8-EEwo6Q2IhPOOLZe5KGu-78=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AMH2ADNVDVDZBOLV2UVWWV4I4E.jpg) 
+}
+
+.cat{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-position: center;
+    background-image:url(https://img.freepik.com/fotos-premium/lindo-bebe-gato-sobre-fondo-blanco_44074-3654.jpg);
+}
+.dog{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-position: center;
+    background-image:url(https://www.revistaneo.com/sites/default/files/2019-09/dog-838281_640.jpg);
+}
+.centrada{
+    padding-top: 5px;
+    background-color: rgba(255, 255, 255, 0.767);
+    text-align: center;
+    width: 500px;
+    margin: 90px auto;
+}
+.botones{
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(247, 171, 73);
+    border-radius: 0.1rem;   
+}
+.tit{
+    color: rgb(247, 159, 28);
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-block-end: 0;
+    
+}
+.sec{
+
+    font-size: 14px;
+    margin-block-start: 0;
+    color:rgb(0, 0, 0);
+    font-style: italic;
+    font-weight: bolder;
+    margin-block-end: 7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.thir{
+    margin-block-start: 0;
+    margin-block-end: 15;
+    font-weight: lighter;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.question{
+    width: 300px;
+    margin: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.h{
+    margin-block-start: 0;
+    font-weight: lighter;
+    text-align: justify;
+    margin-inline-end: 0;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ce{
+    padding-left: 25px;
+    padding-right:25px;
+}
